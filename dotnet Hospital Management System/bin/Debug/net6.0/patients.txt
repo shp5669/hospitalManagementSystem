@@ -1,0 +1,4 @@
+1,Emily,White,emily.white@example.com,555-4321,101,Park St,Smalltown,FL,patient1
+2,Chris,Brown,chris.brown@example.com,555-8765,202,Elm St,Bigtown,GA,patient2
+3,Alice,Johnson,alice.johnson@example.com,555-2109,303,Cedar St,Tinytown,AZ,patient3
+
